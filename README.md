@@ -7,6 +7,7 @@ This repository is for my Assignment 1, where I practice the basic Git workflow:
 - **Name:** Timothy Donkor Kyebambo
 - **Student ID:** 22370734
 - **Program:** Mathematics and Computer Science, University of Ghana
+-**Level:** 300
 
 ## Steps I followed
 1. Created the repository on GitHub
